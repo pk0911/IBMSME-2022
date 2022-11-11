@@ -14,3 +14,6 @@ The first step of my analysis was to review data and search for any missing valu
 Then by performing some basic calculations, and by calculating the total Screen time ,I analyzed how the usuage of gadgets affected the self study and health of students.
 
 Data Source: https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
+
+![image](https://user-images.githubusercontent.com/114132172/201259096-77812ecb-8b55-473b-8e66-ec6486606f82.png)
+
